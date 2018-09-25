@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "bootsrtrap Themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "ram"
+  },
+  "keywords": [
+    "boostrap4",
+    "ram"
+  ],
+  "author": "Tushar Kanjariya",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "bootswatch": "^4.1.3"
+  }
+}
